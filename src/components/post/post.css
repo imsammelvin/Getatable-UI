@@ -1,0 +1,7 @@
+.card-header {
+  display: inline-block;
+}
+.MuiCardHeader-avatar {
+  display: inline-block;
+  align-items: center;
+}

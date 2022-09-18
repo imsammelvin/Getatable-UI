@@ -1,0 +1,19 @@
+@media only screen and (max-width: 400px) {
+  .App {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .card-header {
+    display: inline-block;
+  }
+  .bottom-icons {
+    display: flex;
+    justify-content: space-between;
+  }
+  .MuiCardHeader-avatar {
+    display: inline-block;
+  }
+}
